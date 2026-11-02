@@ -1,0 +1,4 @@
+Split,Rejected as unknown (%),Binary acc (closed set),Binary acc (open set),Zero-day rows rejected (%),Seen rows rejected (%)
+Validation,2.131,0.989,0.979,,
+KDDTest+,16.856,0.903,0.912,38.72,12.493
+KDDTest-21,31.688,0.817,0.837,38.824,28.397

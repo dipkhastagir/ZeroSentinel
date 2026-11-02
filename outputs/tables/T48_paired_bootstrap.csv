@@ -1,0 +1,5 @@
+,Split,Versus,Mean Δ macro-F1,CI low,CI high,One-sided p (Δ ≤ 0)
+0,KDDTest+,Tuned LightGBM,0.1666,0.1386,0.1921,0.0
+1,KDDTest+,Cost-sensitive Tuned LightGBM,0.1186,0.0929,0.1431,0.0
+2,KDDTest-21,Tuned LightGBM,0.1706,0.1442,0.1966,0.0
+3,KDDTest-21,Cost-sensitive Tuned LightGBM,0.1221,0.0973,0.1458,0.0

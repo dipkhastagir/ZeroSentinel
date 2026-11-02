@@ -1,0 +1,16 @@
+Feature,Unique (train),Top value share (%),Std (train),Unique (test),Status
+num_outbound_cmds,1,100.0,0.0,1,constant
+is_host_login,2,99.999,0.0028,2,near-zero variance
+urgent,4,99.993,0.0144,4,near-zero variance
+land,2,99.98,0.0141,2,near-zero variance
+num_shells,3,99.963,0.0222,4,near-zero variance
+su_attempted,3,99.936,0.0452,3,near-zero variance
+num_failed_logins,6,99.903,0.0452,5,near-zero variance
+root_shell,2,99.866,0.0366,2,informative
+num_file_creations,35,99.772,0.4839,9,informative
+num_access_files,10,99.705,0.0994,5,informative
+num_root,82,99.485,24.3996,20,informative
+wrong_fragment,3,99.135,0.2535,3,informative
+is_guest_login,2,99.058,0.0966,2,informative
+num_compromised,88,98.979,23.942,23,informative
+hot,28,97.88,2.15,16,informative

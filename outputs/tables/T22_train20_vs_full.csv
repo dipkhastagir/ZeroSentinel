@@ -1,0 +1,5 @@
+Training data,Evaluated on,Accuracy,Macro-F1,Binary acc
+"KDDTrain+_20Percent (25,192 rows)",KDDTest+,0.7804,0.6128,0.8009
+"KDDTrain+_20Percent (25,192 rows)",KDDTest-21,0.5832,0.524,0.6223
+"Train split (100,778 rows)",KDDTest+,0.7814,0.5697,0.8051
+"Train split (100,778 rows)",KDDTest-21,0.5842,0.4832,0.6295

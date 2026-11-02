@@ -1,0 +1,5 @@
+ARFF file,Attributes,41 names match TXT schema,Label attribute,ARFF records,TXT records
+KDDTrain+.arff,42,True,class,125973,125973
+KDDTest+.arff,42,True,class,22544,22544
+KDDTest-21.arff,42,True,class,11850,11850
+KDDTrain+_20Percent.arff,42,True,class,25192,25192

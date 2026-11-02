@@ -1,0 +1,12 @@
+,In-distribution (validation),Official KDDTest+,KDDTest-21,Inflation (pp)
+Logistic Regression,99.35,73.68,50.1,25.66
+Gaussian Naive Bayes,55.22,31.58,35.88,23.64
+Decision Tree,99.84,78.07,58.68,21.77
+k-Nearest Neighbours,99.55,73.94,50.46,25.61
+Linear SVM,98.92,73.32,49.26,25.6
+Random Forest,99.89,78.02,58.2,21.87
+Extra Trees,99.88,75.75,54.35,24.13
+Hist Gradient Boosting,99.48,78.14,58.42,21.34
+XGBoost,99.92,78.14,58.42,21.78
+LightGBM,99.92,77.68,57.54,22.24
+CatBoost,99.9,78.37,58.85,21.53

@@ -1,0 +1,7 @@
+,Feature,File,Train levels,File levels,Unseen levels,Records with unseen level,Examples,Train levels with <20 records
+0,protocol_type,KDDTest+,3,3,0,0,,
+1,protocol_type,KDDTest-21,3,3,0,0,,0.0
+2,service,KDDTest+,70,64,0,0,,
+3,service,KDDTest-21,70,62,0,0,,9.0
+4,flag,KDDTest+,11,11,0,0,,
+5,flag,KDDTest-21,11,11,0,0,,0.0

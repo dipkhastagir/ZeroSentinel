@@ -1,0 +1,10 @@
+Model,Protocol,Accuracy (%),Binary accuracy (%),Macro-F1
+Suresh Kumar et al. 2026 (P2): DNN,A (80:20 of KDDTrain+),99.96,,
+Ghosh et al. 2026 (P3): MLA-DRMCNN,A (augmented split),99.99,,
+Antony et al. 2026 (P5): optimised SVM,A (80:20 of KDDTrain+),99.1,,
+Jain et al. 2026 (P1): Decision Tree,A (70/15/15 of KDDTrain+),99.87,,
+Jain et al. 2026 (P1): CNN-LSTM,A (70/15/15 of KDDTrain+),99.28,,
+This Research: Decision Tree,A (random 80:20 of KDDTrain+),99.79360984322287,99.83726929946418,0.9377328130597172
+This Research: Random Forest,A (random 80:20 of KDDTrain+),99.89283588013494,99.89283588013494,0.9095302974209952
+This Research: Hist Gradient Boosting,A (random 80:20 of KDDTrain+),99.65866243302243,99.71422901369318,0.8069113344062341
+This Research: XGBoost,A (random 80:20 of KDDTrain+),99.91665012899385,99.92061917047033,0.9438135177509238

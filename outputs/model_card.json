@@ -1,0 +1,21 @@
+{
+  "model": "LOFO-Hybrid (Tuned LightGBM + Autoencoder)",
+  "intended_use": "research benchmark of network intrusion detection on NSL-KDD",
+  "limitations": [
+    "NSL-KDD reflects 1998-era traffic",
+    "about 17% of KDDTest+ records are zero-day attack names",
+    "operating point chosen by LOFO validation, not tuned to any test file"
+  ],
+  "metrics": {
+    "Acc": 0.8386266855926189,
+    "BalAcc": 0.7061170927573588,
+    "MacroF1": 0.7112188255833722,
+    "WeightedF1": 0.8319005635922674,
+    "MCC": 0.7640235652097057,
+    "BinAcc": 0.9027679205110007,
+    "DR": 0.8946466141977714,
+    "FAR": 0.08649984553599012,
+    "AUC": 0.9643115115917257,
+    "ZeroDayDR": 0.7826666666666666
+  }
+}

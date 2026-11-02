@@ -1,0 +1,9 @@
+,,Accuracy,Accuracy,Macro-F1,Macro-F1,Binary acc,Binary acc
+,,mean,std,mean,std,mean,std
+Split,Model,,,,,,
+KDDTest+,LOFO-Hybrid,0.8343,0.0042,0.7215,0.0074,0.8852,0.0099
+KDDTest+,Tuned LightGBM,0.7809,0.0008,0.5712,0.007,0.7904,0.001
+KDDTest-21,LOFO-Hybrid,0.6866,0.008,0.6329,0.0077,0.7833,0.019
+KDDTest-21,Tuned LightGBM,0.5832,0.0016,0.4833,0.007,0.6012,0.0019
+Validation,LOFO-Hybrid,0.989,0.0003,0.8797,0.009,0.9891,0.0002
+Validation,Tuned LightGBM,0.9994,0.0,0.9618,0.0097,0.9994,0.0

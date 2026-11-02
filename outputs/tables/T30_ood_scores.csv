@@ -1,0 +1,7 @@
+,Zero-day vs seen attacks AUC,Zero-day vs normal AUC
+1 − max softmax,0.8403,0.9377
+Predictive entropy,0.8411,0.9375
+Isolation Forest,0.3632,0.9521
+Autoencoder,0.4895,0.9542
+Local Outlier Factor,0.4269,0.8684
+Mahalanobis (Ledoit-Wolf),0.436,0.9518

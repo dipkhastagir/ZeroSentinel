@@ -1,0 +1,14 @@
+,normal,dos,probe,r2l,u2r
+Tuned LightGBM,99.98,99.98,99.83,98.49,80.0
+HGB class-weighted,99.98,99.93,99.66,97.99,80.0
+HGB + SMOTE,99.96,99.97,99.74,97.99,80.0
+HGB + Borderline-SMOTE,99.91,99.95,99.61,96.98,80.0
+HGB + ADASYN,99.73,99.98,99.01,96.98,90.0
+HGB + SMOTE-Tomek,99.73,99.96,99.27,95.98,60.0
+Cost-sensitive Tuned LightGBM,99.96,99.98,99.87,98.49,90.0
+Tuned LightGBM + class scaling,99.96,99.98,99.87,98.49,70.0
+Two-stage hierarchical,99.97,99.97,99.74,97.49,50.0
+Specialist-gated ensemble,99.96,99.98,99.83,98.49,80.0
+Balanced Random Forest,91.05,96.53,98.63,95.98,100.0
+EasyEnsemble,90.3,94.55,95.03,91.46,90.0
+Focal-loss MLP,98.45,99.96,99.19,94.97,100.0

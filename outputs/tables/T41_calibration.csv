@@ -1,0 +1,7 @@
+,Split,Variant,ECE,Log-loss
+0,Validation,raw,0.0005,0.0027
+1,Validation,temperature T=1.41,0.0003,0.0023
+2,KDDTest+,raw,0.2041,1.9986
+3,KDDTest+,temperature T=1.41,0.1962,1.4285
+4,KDDTest-21,raw,0.3884,3.8021
+5,KDDTest-21,temperature T=1.41,0.3737,2.7172

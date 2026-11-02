@@ -1,0 +1,6 @@
+Check,Count
+Duplicate feature rows inside KDDTrain+,16
+Duplicate feature rows inside KDDTest+,57
+Duplicate feature rows inside KDDTest-21,55
+Rows of KDDTest+ identical to a KDDTrain+ row,664
+Rows of KDDTest-21 identical to a KDDTrain+ row,529

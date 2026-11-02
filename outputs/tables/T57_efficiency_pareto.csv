@@ -1,0 +1,30 @@
+,Val macro-F1,Latency (µs/record),Size (KB),Pareto-optimal,ID
+Tuned LightGBM,0.9759,212.529,12424.4766,True,1
+HGB class-weighted,0.9652,14.1692,679.3301,True,2
+XGBoost,0.9525,29.5563,2998.2695,False,3
+Decision Tree,0.9518,0.1955,51.0107,True,4
+CatBoost,0.9508,2.8188,7108.2451,False,5
+HGB + SMOTE,0.9498,38.4898,1680.5352,False,6
+DAE-pretrained MLP,0.944,9.3192,209.7695,False,7
+Two-stage hierarchical,0.9302,26.9666,8763.1885,False,8
+Residual MLP,0.929,18.3949,1181.0195,False,9
+Random Forest,0.929,19.7614,27358.5029,False,10
+Extra Trees,0.927,24.2544,68576.2119,False,11
+HGB + Borderline-SMOTE,0.9227,18.0,819.959,False,12
+LightGBM,0.9215,119.1565,6526.8965,False,13
+k-Nearest Neighbours,0.9085,893.5752,50783.3672,False,14
+BiGRU (mRMR sequence),0.8911,20.0038,134.0195,False,15
+FT-Transformer,0.8866,33.6856,86.3945,False,16
+1D-CNN,0.8785,20.189,168.0195,False,17
+Deep & Cross Network,0.878,10.234,264.4766,False,18
+LOFO-Hybrid (Tuned LightGBM + Autoencoder),0.8708,210.3373,12424.4766,False,19
+HGB + ADASYN,0.8615,12.5248,582.7969,False,20
+HGB + SMOTE-Tomek,0.8523,12.0437,589.5674,False,21
+Logistic Regression,0.8347,0.895,5.7217,False,22
+Linear SVM,0.8337,0.7685,5.5996,False,23
+Focal-loss MLP,0.8093,9.8182,263.0195,False,24
+Hist Gradient Boosting,0.7957,9.6118,383.6523,False,25
+CNN-BiLSTM-Attention,0.7788,27.9939,196.3984,False,26
+Balanced Random Forest,0.6526,10.3537,5389.0674,False,27
+EasyEnsemble,0.633,53.4079,373.668,False,28
+Gaussian Naive Bayes,0.353,3.3656,10.5918,False,29

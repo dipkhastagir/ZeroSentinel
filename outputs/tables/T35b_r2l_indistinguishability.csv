@@ -1,0 +1,14 @@
+label,Records,Zero-day,Nearest training neighbour is normal (%),Identical to a training normal row (%),Median distance to nearest training row,Detected by LOFO-Hybrid (%)
+guess_passwd,1231,False,83.83,0.0,3.1,81.72
+warezmaster,944,False,83.37,0.0,1.84,68.54
+snmpguess,331,True,99.4,0.0,0.54,1.81
+snmpgetattack,178,True,99.44,15.17,0.02,0.0
+httptunnel,133,True,86.47,0.0,3.97,96.99
+multihop,18,False,83.33,0.0,2.71,61.11
+named,17,True,64.71,0.0,4.91,76.47
+sendmail,14,True,92.86,0.0,3.95,64.29
+xlock,9,True,88.89,0.0,1.58,77.78
+xsnoop,4,True,100.0,0.0,20.47,100.0
+ftp_write,3,False,33.33,0.0,5.64,66.67
+phf,2,False,50.0,0.0,0.94,100.0
+imap,1,False,100.0,0.0,11.54,100.0

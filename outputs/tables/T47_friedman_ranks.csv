@@ -1,0 +1,9 @@
+,Average rank
+LOFO-Hybrid (Tuned LightGBM + Autoencoder),1.0
+Cost-sensitive Tuned LightGBM,2.6
+HGB class-weighted,3.45
+Specialist-gated ensemble,4.45
+Tuned LightGBM + class scaling,4.5
+XGBoost,5.75
+Tuned LightGBM,6.975
+Weighted soft voting,7.275

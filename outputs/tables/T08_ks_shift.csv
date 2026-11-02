@@ -1,0 +1,16 @@
+Feature,KS statistic,p-value,Holm p,Shifted (Holm<0.01)
+dst_host_rerror_rate,0.22603,0.0,0.0,True
+dst_host_serror_rate,0.20251,0.0,0.0,True
+dst_host_srv_serror_rate,0.19682,0.0,0.0,True
+serror_rate,0.18539,0.0,0.0,True
+srv_serror_rate,0.18138,0.0,0.0,True
+dst_host_srv_rerror_rate,0.16798,0.0,0.0,True
+rerror_rate,0.13028,0.0,0.0,True
+dst_bytes,0.12408,0.0,0.0,True
+srv_rerror_rate,0.12365,0.0,0.0,True
+dst_host_srv_count,0.11067,0.0,0.0,True
+dst_host_same_srv_rate,0.10469,0.0,0.0,True
+dst_host_diff_srv_rate,0.10357,0.0,0.0,True
+diff_srv_rate,0.09791,0.0,0.0,True
+same_srv_rate,0.09467,0.0,0.0,True
+count,0.08406,0.0,0.0,True

@@ -1,0 +1,3 @@
+Detector,False alarms before shift,Detected the shift,Detection delay (records)
+"Windowed KS test (W=500, Bonferroni, 2 consecutive windows)",0,True,1402.0
+"Page-Hinkley (λ calibrated on validation, λ=129.0)",0,False,

@@ -1,0 +1,17 @@
+Split,Comparator,Final right / comparator wrong,Final wrong / comparator right,p,Holm p,Significant (α=0.05)
+KDDTest+,Cost-sensitive Tuned LightGBM,1571,563,0.0,0.0,True
+KDDTest+,Tuned LightGBM,1869,573,0.0,0.0,True
+KDDTest+,Weighted soft voting,1865,576,0.0,0.0,True
+KDDTest+,Specialist-gated ensemble,1724,573,0.0,0.0,True
+KDDTest+,HGB class-weighted,1666,563,0.0,0.0,True
+KDDTest+,Tuned LightGBM + class scaling,1735,581,0.0,0.0,True
+KDDTest+,XGBoost,1854,565,0.0,0.0,True
+KDDTest+,Decision Tree,1893,587,0.0,0.0,True
+KDDTest-21,Cost-sensitive Tuned LightGBM,1571,540,0.0,0.0,True
+KDDTest-21,Tuned LightGBM,1869,550,0.0,0.0,True
+KDDTest-21,Weighted soft voting,1865,553,0.0,0.0,True
+KDDTest-21,Specialist-gated ensemble,1724,550,0.0,0.0,True
+KDDTest-21,HGB class-weighted,1658,540,0.0,0.0,True
+KDDTest-21,Tuned LightGBM + class scaling,1735,558,0.0,0.0,True
+KDDTest-21,XGBoost,1854,542,0.0,0.0,True
+KDDTest-21,Decision Tree,1856,575,0.0,0.0,True

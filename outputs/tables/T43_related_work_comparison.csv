@@ -1,0 +1,21 @@
+Work,Dataset,Protocol,5-class accuracy (%),Macro-F1,Binary accuracy (%),Directly comparable
+P1 Jain et al. 2026: CNN-LSTM,NSL-KDD,B (official KDDTest+),77.61,0.6068,79.36,Yes
+P1 Jain et al. 2026: SVM (RBF),NSL-KDD,B (official KDDTest+),,,81.05,Yes
+P1 Jain et al. 2026: Gradient Boosting,NSL-KDD,B (official KDDTest+),,,80.73,Yes
+P1 Jain et al. 2026: CNN-LSTM,NSL-KDD,A (70/15/15 of KDDTrain+),,,99.28,Protocol A only
+P2 Suresh Kumar et al. 2026: DNN,NSL-KDD,A (80:20 of KDDTrain+),99.96,,,Protocol A only
+P3 Ghosh et al. 2026: MLA-DRMCNN,NSL-KDD (augmented),A (random split),99.99,,,Protocol A only
+P4 Al Khulayf et al. 2026: KNN+RF ensemble,CICIDS2017,random split,,,,No (other dataset)
+P5 Antony et al. 2026: optimised SVM,NSL-KDD,A (80:20 of KDDTrain+),99.1,,,Protocol A only
+P6 Dardouri 2026: optimised LSTM,CICIDS2017,random split,,,,No (other dataset)
+P7 Jyoti et al. 2026: CatBoost/LightGBM,NSL-KDD,A (80:20 split),,,,Class-wise only
+P8 Hora et al. 2026: transfer learning,EmuIoT-VT,cross-domain,,,,No (other dataset)
+P9 FI-AE 2026: autoencoder + RF,"NSL-KDD, UNSW, CIC",random split,,,,Protocol A only
+P10 Blali et al. 2026: HFXL,CIC-IoT2023,random split,,,99.42,No (other dataset)
+P11 Diao et al. 2026: SSGMHAN,NF-BoT-IoT,self-supervised,,,,No (other dataset)
+P12 Gökstorp et al. 2026: review,—,survey,,,,Survey
+P13 Phalaagae et al. 2025: CNN-LSTM-Attention,WSN dataset,random split,,,98.04,No (other dataset)
+P14 Hölbl & Rotovnik 2026: review,—,survey,,,,Survey
+P15 Rehman et al. 2025: review,—,survey,,,,Survey
+"This Research: best single model, Protocol A",NSL-KDD,A (80:20 of KDDTrain+),,,,Yes
+This Research: LOFO-Hybrid (Tuned LightGBM + Autoencoder),NSL-KDD,B (official KDDTest+),83.86266855926189,0.7112188255833722,90.27679205110007,Yes

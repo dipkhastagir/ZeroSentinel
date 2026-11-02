@@ -1,0 +1,4 @@
+Split,Flagged (%),Detection rate,False alarm rate,Realised FDR,Target FDR
+Validation,65.0344,0.9834,0.0705,0.0396,0.1
+KDDTest+,55.3673,0.8973,0.0996,0.0775,0.1
+KDDTest-21,82.0506,0.8977,0.4726,0.1046,0.1

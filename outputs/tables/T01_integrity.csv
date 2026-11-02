@@ -1,0 +1,9 @@
+File,MD5 (root),Identical copy in nsl-kdd/,Records,Official records,Count verified
+KDDTest+.arff,0af8c3754211,True,,,n/a
+KDDTest+.txt,7c6d1b1af246,True,22544.0,22544.0,True
+KDDTest-21.arff,8feb561bcc1e,True,,,n/a
+KDDTest-21.txt,02368ff472bb,True,11850.0,11850.0,True
+KDDTrain+.arff,8e351c7ac395,True,,,n/a
+KDDTrain+.txt,f5592a95d1d1,True,125973.0,125973.0,True
+KDDTrain+_20Percent.arff,f83729ea711e,True,,,n/a
+KDDTrain+_20Percent.txt,e160feff7844,True,25192.0,25192.0,True
